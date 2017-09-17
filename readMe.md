@@ -8,7 +8,7 @@ I'm a second-year M.S candidate in data science. I have a background in mathemat
 
 
 ### Kailing Wang
-My name is Kailing Wang, a second-year student of MS in Data Science program. Previously, I earned my bachelor degree in Mathematics and Applied Mathematics. With the passion for data science, I not only have exposed to but also have hand-on experience with statistics, machine learning, artificial neural network and natural language processing techniques. 
+I am a second-year student of MS in Data Science program. Previously, I earned my bachelor degree in Mathematics and Applied Mathematics. With the passion for data science, I have not only been exposed to but also obtained hand-on experience with statistics, machine learning, artificial neural network and natural language processing techniques. This summer, I interned at IT Department at Aflac Global Investments. This Wall Street internship gives me an opportunity to apply machine learning methods to solve real issues in financial industry. Currently, I am an NLP intern at Roivant Sciences. 
 
 
 ### Weitao Lin
@@ -22,4 +22,4 @@ We all have strong interest in exactly the same top 3 projects we want to do.
 ### Automatic enrichment of TV series and movies transcripts (CNRS)
 ### Industrial Representation and Classification via Deep Learning
 
-We choose these 3 projects mainly because solving them involves a lot of NLP, which is very interesting to all of us. The other reason is because they are just cool. 
+We choose these 3 projects mainly because solving them involves a lot of NLP, which is very interesting to all of us. The other reason is because they are just cool.
